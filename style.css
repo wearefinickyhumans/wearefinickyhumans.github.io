@@ -1,1 +1,15 @@
+header {
+	background-color : blue;
+}
 
+nav {
+	background-color : green;
+}
+
+section {
+	background-color : pink;
+}
+
+footer {
+	background-color : grey;
+}
