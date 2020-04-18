@@ -4,22 +4,28 @@ body {
 
 header {
 	background-color : blue;
-	height: 500px;
+	height:550px;
 }
 
 
 nav {
-	display:inline;
-}
+	background-color:magenta;
+	height:50px;
+	padding:10px;
+	}
 
 	ul {
 		list-style: none;
 		margin-left:70%;
+		margin-top:auto;
+		margin-bottom:auto;
+		height:40px;
+		background-color:purple;
 	}
 
 		li {
 			display:inline;
-			margin : 5%;
+			margin-left:5%;
 			background-color:blue;
 		}
 
@@ -46,5 +52,6 @@ footer {
 	background-color:pink;
 	padding :10px;
 }
+
 
 
