@@ -7,8 +7,29 @@ header {
 	height: 500px;
 }
 
+
 nav {
-	list-style-type: none;
+	display:inline;
+}
+
+ul {
+	list-style: none;
+	
+}
+
+.section1 {
+	height:200px;
+	background-color : grey;
+}
+
+.section2 {
+	height:200px;
+	background-color : green;
+}
+
+.section3 {
+	height:200px;
+	background-color : red;
 }
 
 
