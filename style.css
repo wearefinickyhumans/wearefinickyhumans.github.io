@@ -30,7 +30,7 @@ body {
 
 		.flexmenu1 {
 			list-style: none;
-			background-color:purple;
+			background-color:;
 			display:flex;
 			justify-content: space-around;
 			width:20%;
@@ -41,13 +41,13 @@ body {
 		}
 
 			.flexli {
-				background-color:blue;
+				background-color:;
 				margin-left:0;
 			}
 
 				.amenu {
 					text-decoration:none;
-					font-size:40px;
+					font-size:30px;
 					color:white;
 				}
 
@@ -65,7 +65,7 @@ body {
 
 		.flexmenu2 {
 			list-style: none;
-			background-color:purple;
+			background-color:;
 			display:flex;
 			justify-content: space-between;
 			width:20%;
@@ -75,7 +75,7 @@ body {
 		}
 
 			.flexli1 {
-				background-color:blue;
+				background-color:;
 				justify-content: space-around;
 			}
 
