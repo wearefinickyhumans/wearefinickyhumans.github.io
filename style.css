@@ -4,13 +4,21 @@ body {
 
 	header {
 		background-color : blue;
-		height:550px;
+		height:450px;
 	}
+
+		.imgtexte {
+			height:200px;
+			width:50%;
+			background-color:red;
+			margin-left:auto;
+			margin-right:auto;
+		}
 
 
 	.navflex {
 		background-color:magenta;
-		height:40px;
+		height:150px;
 		padding:10px;
 		display:flex;
 		justify-content: space-around;
@@ -21,10 +29,10 @@ body {
 			background-color:purple;
 			display:flex;
 			justify-content: space-around;
-			width:30%;
-			margin-left:5%;
+			width:20%;
 			height:30px;
-			margin-top:10px;
+			margin-top:50px;
+			margin-left:7%;
 
 		}
 
@@ -38,14 +46,21 @@ body {
 					color:black;
 				}
 
+		.logo {
+			background-color:red;
+			width:150px;
+			height:100px;
+			margin-top:30px;
+		}
+
 		.flexmenu2 {
 			list-style: none;
 			background-color:purple;
 			display:flex;
 			justify-content: space-between;
-			width:30%;
+			width:20%;
 			height:30px;
-			margin-top:10px;
+			margin-top:50px;
 
 		}
 
@@ -99,6 +114,7 @@ body {
 		flex-direction:column;
 		align-items: center;
 	}
+
 
 
 
